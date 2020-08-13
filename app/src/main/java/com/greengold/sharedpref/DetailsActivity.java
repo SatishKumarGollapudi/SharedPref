@@ -33,6 +33,8 @@ public class DetailsActivity extends AppCompatActivity {
                 editor.commit();
                 startActivity(intent);
             }
-        });
+        });commit and revert
+                local changes
+                        develop
     }
 }
