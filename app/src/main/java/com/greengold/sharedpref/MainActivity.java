@@ -27,6 +27,10 @@ public class MainActivity extends AppCompatActivity {
         if(pref.contains("username") && pref.contains("password")){
             startActivity(intent);
         }
+
+        Log.d("Message","first commit");
+
+        Log.i("Information","second commit");
         loginBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
