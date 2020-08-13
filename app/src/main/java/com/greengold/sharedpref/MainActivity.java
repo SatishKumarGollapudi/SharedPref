@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         Log.d("Message","first commit");
 
         Log.i("Information","second commit");
+
+        third commit data
         loginBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
