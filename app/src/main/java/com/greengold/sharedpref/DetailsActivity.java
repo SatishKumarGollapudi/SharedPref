@@ -35,6 +35,6 @@ public class DetailsActivity extends AppCompatActivity {
             }
         });commit and revert
                 local changes
-                        develop
+                        develop change
     }
 }
